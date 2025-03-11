@@ -1,4 +1,5 @@
-# Buffy ⚡
-A simple proxy
+# Jordan's Math Work BYOD
 
-[![Deploy On Replit](https://shields.io/badge/Deploy%20on-replit-important?logo=replit&style=for-the-badge)](https://replit.com/github/retronbv/buffy)
+## https://discord.gg/gSjNsVxX5y
+
+# This is basically useless to deploy on node.js platforms, because there's a static version
