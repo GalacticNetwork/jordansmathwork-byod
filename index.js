@@ -14,7 +14,7 @@ console.log(`
 `);
 
 const server = http.createServer();
-const url = "https://curtiss.pages.dev";
+const url = "https://jordansmath.work";
 const PORT = process.env.PORT || 8080;
 
 server.on("request", async (req, res) => {
